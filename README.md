@@ -3,7 +3,7 @@
 <p><em>Student Of Poornima College of Engineering ><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: ayush](https://img.shields.io/badge/-bhavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-baluni-1469a4241/)]([(https://www.linkedin.com/in/bhavya-lohami-62a53718a)])
+[![Linkedin: ayush](https://img.shields.io/badge/-bhavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavya-lohami-62a53718a)]([(https://www.linkedin.com/in/bhavya-lohami-62a53718a)])
 ![GitHub followers](https://img.shields.io/github/followers/aayushbaluni?label=Follow&style=social)
 
 
